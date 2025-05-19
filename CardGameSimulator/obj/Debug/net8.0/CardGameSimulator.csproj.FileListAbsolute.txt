@@ -1,0 +1,14 @@
+C:\Projects\tools\CardGameSimulator\bin\Debug\net8.0\CardGameSimulator.exe
+C:\Projects\tools\CardGameSimulator\bin\Debug\net8.0\CardGameSimulator.deps.json
+C:\Projects\tools\CardGameSimulator\bin\Debug\net8.0\CardGameSimulator.runtimeconfig.json
+C:\Projects\tools\CardGameSimulator\bin\Debug\net8.0\CardGameSimulator.dll
+C:\Projects\tools\CardGameSimulator\bin\Debug\net8.0\CardGameSimulator.pdb
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.AssemblyInfoInputs.cache
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.AssemblyInfo.cs
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.csproj.CoreCompileInputs.cache
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.dll
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\refint\CardGameSimulator.dll
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.pdb
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\CardGameSimulator.genruntimeconfig.cache
+C:\Projects\tools\CardGameSimulator\obj\Debug\net8.0\ref\CardGameSimulator.dll
